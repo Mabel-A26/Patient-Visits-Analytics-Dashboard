@@ -30,4 +30,4 @@ Healthcare analytics dashboard built using SQL Server and Power BI to analyze pa
 - This pattern highlights potential opportunities for care coordination and targeted intervention strategies.
 
 ## Dashboard Preview
-![Dashboard Preview](images/Patient_Visits_Dashboard.png)
+![Dashboard Preview](Patient_Visits_Dashboard.png)
